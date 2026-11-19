@@ -1,0 +1,5 @@
+escenario,W,Wq,Lq,utilizacion,Wq_retiros,Wq_pagos,W_retiros,W_pagos,espera_max
+A: 3 mixtas,6.18,3.06,1.22,0.41,3.2,2.78,5.5,7.75,28.26
+B: 1 retiros + 2 pagos,7.75,4.64,1.83,0.41,5.48,2.72,7.78,7.69,30.11
+C: 2 retiros + 1 pago,6.94,3.83,1.53,0.41,1.66,8.57,3.96,13.54,38.14
+D: 4 mixtas,5.21,2.09,0.83,0.31,2.2,1.82,4.5,6.78,28.46
